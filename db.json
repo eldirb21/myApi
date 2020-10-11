@@ -1,86 +1,67 @@
-[
-  {
+{
+  "item": [
+    {
     "id": 1,
     "item_name": "WATER WIEPON",
     "item_image": "item1.png",
     "item_price": "$8.32 USD",
     "item_stock": "100"
-  },
-  {
-    "id": 2,
+    },
+    {
+     "id": 2,
     "item_name": "Bom Wiepons",
      "item_image": "item2.png",
     "item_price": "$11.32 USD",
     "item_stock": "10"
-  },
-  {
-    "id": 3,
+    },
+    {
+     "id": 3,
     "item_name": "Sniper Wiepons",
      "item_image": "item3.png",
     "item_price": "$30.32 USD",
     "item_stock": "50"
-  },
-  {
-    "id": 4,
-    "item_name": "WATER WIEPON",
-    "item_image": "item1.png",
-    "item_price": "$8.32 USD",
-    "item_stock": "100"
-  },
-  {
-    "id": 5,
-    "item_name": "Bom Wiepons",
-     "item_image": "item2.png",
-    "item_price": "$11.32 USD",
-    "item_stock": "10"
-  },
-  {
-    "id": 6,
-    "item_name": "Sniper Wiepons",
-     "item_image": "item3.png",
-    "item_price": "$30.32 USD",
-    "item_stock": "50"
-  },
-  {
-    "id": 7,
-    "item_name": "WATER WIEPON",
-    "item_image": "item1.png",
-    "item_price": "$8.32 USD",
-    "item_stock": "100"
-  },
-  {
-    "id": 8,
-    "item_name": "Bom Wiepons",
-     "item_image": "item2.png",
-    "item_price": "$11.32 USD",
-    "item_stock": "10"
-  },
-  {
-    "id": 9,
-    "item_name": "Sniper Wiepons",
-     "item_image": "item3.png",
-    "item_price": "$30.32 USD",
-    "item_stock": "50"
-  },
-  {
-    "id": 10,
-    "item_name": "WATER WIEPON",
-    "item_image": "item1.png",
-    "item_price": "$8.32 USD",
-    "item_stock": "100"
-  },
-  {
-    "id": 11,
-    "item_name": "Bom Wiepons",
-     "item_image": "item2.png",
-    "item_price": "$11.32 USD",
-    "item_stock": "10"
-  },
-  {
-    "id": 12,
-    "item_name": "Sniper Wiepons",
-     "item_image": "item3.png",
-    "item_price": "$30.32 USD",
-    "item_stock": "50"
+    }
+  ],
+   "hero": [
+    {
+    "id": 1,
+    "hero_name": "Gatot Kaca",
+    "hero_image": "hero1.png",
+    "hero_price": "$8.32 USD",
+    "hero_stock": "100"
+    },
+    {
+     "id": 2,
+   "hero_name": "Zilong",
+    "hero_image": "hero2.png",
+    "hero_price": "$8.32 USD",
+    "hero_stock": "100"
+    },
+    {
+     "id": 3,
+    "hero_name": "Alucard",
+    "hero_image": "hero3.png",
+    "hero_price": "$8.32 USD",
+    "hero_stock": "100"
+    }
+  ],
+  "user": [
+    {
+     "id": 1,
+    "name": "Eldir",
+    "image": "user1.png",
+    "username": "eldirb",
+    "password": "1234"
+    },
+    {
+      "id": 2,
+      "name": "Jhon",
+    "image": "user2.png",
+    "username": "jhonh",
+    "password": "1234"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
