@@ -19,7 +19,7 @@
      "item_image": "item3.png",
     "item_price": "$30.32 USD",
     "item_stock": "50"
-  }
+  },
   {
     "id": 4,
     "item_name": "WATER WIEPON",
@@ -40,7 +40,7 @@
      "item_image": "item3.png",
     "item_price": "$30.32 USD",
     "item_stock": "50"
-  }
+  },
   {
     "id": 7,
     "item_name": "WATER WIEPON",
@@ -61,7 +61,7 @@
      "item_image": "item3.png",
     "item_price": "$30.32 USD",
     "item_stock": "50"
-  }
+  },
   {
     "id": 10,
     "item_name": "WATER WIEPON",
